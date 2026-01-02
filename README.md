@@ -158,8 +158,8 @@ Redistribution is allowed **only in unmodified ZIP form** as provided in this re
 
 ## 🔗 Official Links
 
-- 🌐 Website: https://arcetel.com
-- 📘 Documentation: https://arcetel.com/docs
+- 🌐 Website: https://www.arcetel.com
+- 📘 Documentation: https://www.arcetel.com/docs
 - 🧑‍💻 GitHub Organization: https://github.com/orgs/Arcetel-Solutions/
 
 ---
